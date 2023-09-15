@@ -1,1 +1,4 @@
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
